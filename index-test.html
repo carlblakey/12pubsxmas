@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>12 Pubs of Xmas | 2019</title>
+
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
+    type="text/css">
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+<div class="app">
+    <!-- Start App Wrapper-->
+    <nav class="navbar is-fixed-top is-black" role="navigation" aria-label="main navigation">
+      <div class="navbar-center">
+        <div class="navbar-item">
+         
+            <div>
+              <span class="is-size-4">
+                <!--<img src="img/full-pint.svg" alt="" width="30px" height="auto">-->
+                <i class="fas fa-times"></i>
+              </span>
+              <span class="is-size-4"> {{ pending.length }}</span>
+            </div>
+          </div>
+       
+        <a class="navbar-item" href="#">
+          <img src="img/12pubs-logo.png" width="180" height="100%" alt="12 Pubs Xmas | 2019 ">
+        </a>
+
+        <div class="navbar-item">
+          <div class="buttons">
+            <div>
+
+              <span class="is-size-4">
+                <!--<img src="img/empty-pint.svg" alt="" width="30px" height="auto">-->
+                <i class="fas fa-check"></i>
+              </span>
+              <span class="is-size-4"> {{ completed.length }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </nav>
+
+    <!-- <section class="hero is-link is-medium-with-navbar is-dark is-bold">
+      <div class="bg-video">
+        <video class="bg-video__content" autoplay muted loop>
+          <source src="img/Snow-motion.mp4" type="video/mp4">
+          <source src="img/Snow-motion.webm" type="video/webm">
+          <source src="img/Snow-motion.ogv" type="video/ogg">
+          Your browser is not supported.
+        </video>
+      </div>
+    </section> -->
+
+
+
+
+
+    <section class="section">
+        <div class="container">
+                <section class="todo-wrapper">
+
+                  <!--<h1 class="todo-title">{{ today.day }}<br>{{ today.date }}</h1>
+                        <p class="status busy">You have {{ pending.length }} pubs remaining<span v-if="pending.length>1">s</span></p>
+                        <p class="status">Completed pubs: {{ completed.length }}</p>-->
+
+                  <!-- <div v-if="pending.length > 0">
+                      <p class="status busy">Keep drinking! You have {{ pending.length }} pubs remaining.</p>
+                        <transition-group name="todo-item" tag="ul" class="todo-list">
+                            <li v-for="(item, index) in pending" v-bind:key="item.title" class="btn-grad">
+                                <label v-bind:for="'item_' + item.id">
+                                          <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+                                          <span class="todo-text" v-bind:id="'item_' + item.id">{{ item.title }}</span>
+                                </label>
+                            </li> 
+                        </transition> 
+                  </div> -->
+
+                  <div v-if="pending.length > 0">
+                      <p class="status busy has-text-centered is-size-4 ">Keep drinking! You have {{ pending.length }} pubs remaining.</p>
+                      <transition-group name="todo-item" tag="div" class="todo-list">
+                          <span v-for="(item, index) in pending" v-bind:key="item.title" class="btn-grad">
+                              <label v-bind:for="'item_' + item.id" class="button-complete button is-success">
+                                  <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+                                  <i class="fas fa-check-circle"></i>
+                                  <span class="todo-text" v-bind:id="'item_' + item.id">Finished Your Drink?</span>
+                              </label>
+                      
+
+                             <!-- Start of card-->
+                  <div class="card">
+                      <div class="card__side card__side--front card__side--front-2">                
+                        <div class="card__picture card__picture--2">
+                            &nbsp;
+                            <img v-bind:src="'/img/' + item.image" width="100%" height="100%" alt="" class="card__img" />
+                          </div>
+
+                          <h4 class="card__heading">
+                            <span class="card__heading-span card__heading-span--2" v-bind:id="'item_' + item.id">
+                              {{ item.title }}
+                            </span>
+                          </h4>
+
+                          <div class="card__details">
+                            <ul>
+
+                              <li>
+                                <p class="todo-text" v-bind:id="'item_' + item.id"><i class="fas fa-map-marker-alt"></i>
+                                  {{ item.location }}<br><a v-bind:href="item.map" target="_blank">Google map</a></p>
+                              </li>
+                              <li>
+                                <p class="todo-text" v-bind:id="'item_' + item.id"><strong> <em>Forgot something (bank card, jacket)?</em></strong><br><i class="fas fa-phone"></i>
+                                  {{ item.contact }}</p>
+                              </li>
+
+                              <li>
+                                <p class="todo-text" v-bind:id="'item_' + item.id"><strong><em>Distance to next pub</em></strong><br>
+                                  <i class="fas fa-walking"></i> | {{ item.distance }}</p>
+                              </li>
+                              <li class="quote-bg"> <p class="is-size-5" v-bind:id="'item_' + item.id">
+                                <em>"{{ item.quote }}"</em> </p> 
+                                <span class="is-size-6" v-bind:id="'item_' + item.id">
+                                {{ item.author }}</span>
+                              </li>                            
+                            </ul>
+                          </div>
+                        </div> <!-- end card -->
+
+                        
+
+                           
+
+
+
+                      </span> 
+
+                    </transition>
+
+
+
+                  </div>
+
+                  
+
+                 </div><!-- Pending length -->
+
+
+                  <!-- <transition-group name="todo-item" tag="ul" class="todo-list">
+                      <li v-for="(item, index) in pending" v-bind:key="item.title" class="btn-grad">
+
+                        <label v-bind:for="'item_' + item.id">
+                          <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+
+                          <span class="todo-text" v-bind:id="'item_' + item.id"></span></label>
+
+
+                        <div class="card">
+                          <div class="card__side card__side--front card__side--front-2">
+
+                            <div class="card__picture card__picture--2">
+                              &nbsp;
+                              <img v-bind:src="'/img/' + item.image" width="100%" height="200px" alt="" class="card__img" />
+                            </div>
+
+                            <h4 class="card__heading">
+                              <span class="card__heading-span card__heading-span--2" v-bind:id="'item_' + item.id">
+                                {{ item.title }}
+                              </span>
+                            </h4>
+
+                            <div class="card__details">
+                              <ul>
+
+                                <li>
+                                  <p class="todo-text" v-bind:id="'item_' + item.id"><i class="fas fa-map-marker-alt"></i>
+                                    {{ item.location }}<br><a v-bind:href="item.map" target="_blank">Google map</a></p>
+                                </li>
+                                <li>
+                                  <p class="todo-text" v-bind:id="'item_' + item.id"><i class="fas fa-phone"></i>
+                                    {{ item.contact }}</p>
+                                </li>
+
+                                <li>
+                                  <p class="todo-text" v-bind:id="'item_' + item.id"><i class="fas fa-walking"></i>
+                                    {{ item.distance }}</p>
+                                </li>
+                                <li> add quote </li>
+
+                                <li v-bind:key="item.title" class="btn-grad">
+                                  <label v-bind:for="'item_' + item.id">
+                                    <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done"
+                                      type="checkbox">
+
+                                    <span class="todo-text" v-bind:id="'item_' + item.id">{{ item.title }}</span></label></li>
+                              </ul>
+                            </div>
+                          </div>
+
+                        </div>
+
+
+
+
+
+
+
+
+                      </li>
+                  </transition> -->
+
+                  <transition name="slide-fade">
+                    <p class="status free" v-if="!pending.length">
+                      <img src="https://media.giphy.com/media/axu6dFuca4HKM/giphy.gif" alt="celebration">
+                      <!--<img src="https://media.giphy.com/media/slOhiKAVFgwr6/giphy.gif" alt="Congrats!">-->C'ONON!
+                    </p>
+                  </transition>
+
+                  <div v-if="completed.length > 0 && showComplete">
+                    <p class="status">Done & Dusted {{ completed.length }} pubs down.</p>
+                    <transition-group name="todo-item" tag="ul" class="todo-list archived">
+                      <li v-for="(item, index) in completed" v-bind:key="item.title">
+                        <label v-bind:for="'item_' + item.id">
+                          <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+
+                          <span class="todo-text">{{ item.title }}</span></label>
+
+                      </li>
+                      </transition>
+                  </div>
+                  <!-- <div class="control-buttons">
+                        <div class="btn btn-secondary" v-if="completed.length > 0" @click="toggleShowComplete"><span v-if="!showComplete">Show</span><span v-else>Hide</span> Complete</div>
+                        <div class="btn btn-secondary" v-if="todoList.length > 0" @click="clearAll">Clear All</div>
+                        </div>-->
+                </section>
+
+
+
+        </div> <!-- end containter -->
+	</section>
+</div><!-- end App Wrapper-->
+    
+
+
+  <!-- Scripts -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+
+
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
