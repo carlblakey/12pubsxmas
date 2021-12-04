@@ -4,9 +4,9 @@ el: '.app',
 data() {
 return {
 todoList: [
-{"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-01.jpg', "distance":"0.9 miles, 19 mins", "contact":"415-664-2555", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
+{"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-01.jpg', "distance":"0.9 miles, 19 mins", "contact":"415-566-9444", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
 
-{"id":1,"title":"2. Philosopher's Club","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"305 ft, 1 mins", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
+{"id":1,"title":"2. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-02.jpg', "distance":"305 ft, 1 mins", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
 {"id":2,"title":"3. Mucky Duck","done":false,"location":"1315 9th Ave, San Francisco, CA 94122", "map":'https://goo.gl/maps/Hv4AtRGYnyzQnQEK8', "image":'pub-3.jpg', "distance":"0.2 miles, 3 mins", "contact":"(415) 661-4340", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
 
