@@ -24,7 +24,7 @@ todoList: [
 
 {"id":9,"title":"10. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"2.5 miles, 52 mins (Uber/Lyft)", "contact":"(415) 255-0300", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
 
-{"id":10,"title":"11. Ireland's 32","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"There are more old drunks than there are old doctors.", "author":"- Willie Nelson"},
+{"id":10,"title":"11. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 386-6173", "quote":"There are more old drunks than there are old doctors.", "author":"- Willie Nelson"},
 
 {"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-12.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"A drunk man’s words are a sober man’s thoughts.", "author":"- Steve Fergosi"},
 
