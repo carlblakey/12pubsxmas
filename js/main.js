@@ -16,7 +16,7 @@ todoList: [
 
 {"id":5,"title":"6. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to Kezar!", "contact":"(415) 681-8433", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
 
-{"id":6,"title":"7. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 558-8375", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
+{"id":6,"title":"7. Kezar Pub (Wings)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 558-8375", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
 
 {"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"371 ft, 1 min", "contact":"(415) 386-9292", "quote":"A bottle of beer contains more philosophy than all the books in the world.", "author":"― Louis Pasteur"},
 
