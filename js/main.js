@@ -4,7 +4,7 @@ el: '.app',
 data() {
 return {
 todoList: [
-{"id":0,"title":"1. Durty Nelly’s","done":false,"location":"2328 Irving St,\n\n San Francisco, CA 94122", "map":'https://goo.gl/maps/dkxLkfCYcL4wEokt6', "image":'pub-1.jpg', "distance":"0.9 miles, 19 mins", "contact":"415-664-2555", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
+{"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"2328 Irving St,\n\n San Francisco, CA 94122", "map":'https://goo.gl/maps/dkxLkfCYcL4wEokt6', "image":'pub-1.jpg', "distance":"0.9 miles, 19 mins", "contact":"415-664-2555", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
 
 {"id":1,"title":"2. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"305 ft, 1 mins", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
