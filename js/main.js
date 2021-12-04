@@ -10,11 +10,11 @@ todoList: [
 
 {"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
 
-{"id":3,"title":"4.  Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-04.jpg', "distance":"1.3 miles, 25 mins", "contact":"(415) 592-9703", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
+{"id":3,"title":"4.  Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-04.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
 
-{"id":4,"title":"5. Kezar Pub (Wings!)","done":false,"location":"1355 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.4 miles, 8 mins", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
+{"id":4,"title":"5. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-05.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
 
-{"id":5,"title":"6. Michael Collins","done":false,"location":"1568 Haight St, San Francisco, CA 94117", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-6.jpg', "distance":"0.8 miles, 16 mins", "contact":"(415) 861-1586", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
+{"id":5,"title":"6. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time!", "contact":"(415) 681-8433", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
 
 {"id":6,"title":"7. Kezar Pub (Wings!)","done":false,"location":"1355 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 558-8375", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
 
