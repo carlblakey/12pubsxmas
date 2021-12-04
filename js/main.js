@@ -10,21 +10,21 @@ todoList: [
 
 {"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
 
-{"id":3,"title":"4.  Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-04.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
+{"id":3,"title":"4.  Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-04.jpg', "distance":"1.3 miles, 25 mins", "contact":"(415) 592-9703", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
 
 {"id":4,"title":"5. Kezar Pub (Wings!)","done":false,"location":"1355 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.4 miles, 8 mins", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
 
 {"id":5,"title":"6. Michael Collins","done":false,"location":"1568 Haight St, San Francisco, CA 94117", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-6.jpg', "distance":"0.8 miles, 16 mins", "contact":"(415) 861-1586", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
 
-{"id":6,"title":"7. Danny Coyle's","done":false,"location":"668 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZxBGZWyMJ88ZoefR8', "image":'pub-7.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 558-8375", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
+{"id":6,"title":"7. Kezar Pub (Wings!)","done":false,"location":"1355 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 558-8375", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
 
 {"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"371 ft, 1 min", "contact":"(415) 863-2276", "quote":"A bottle of beer contains more philosophy than all the books in the world.", "author":"― Louis Pasteur"},
 
 {"id":8,"title":"9. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg',"distance":"348 ft, 1 min", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
 
-{"id":9,"title":"10. Nickies","done":false,"location":"466 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/XXFaToqFJbKEp1me8', "image":'pub-10.jpg', "distance":"2.5 miles, 52 mins (Uber/Lyft)", "contact":"(415) 255-0300", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
+{"id":9,"title":"10. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"2.5 miles, 52 mins (Uber/Lyft)", "contact":"(415) 255-0300", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
 
-{"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"There are more old drunks than there are old doctors.", "author":"- Willie Nelson"},
+{"id":10,"title":"11. Ireland's 32","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"There are more old drunks than there are old doctors.", "author":"- Willie Nelson"},
 
 {"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-12.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"A drunk man’s words are a sober man’s thoughts.", "author":"- Steve Fergosi"},
 
