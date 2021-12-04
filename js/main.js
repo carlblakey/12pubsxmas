@@ -6,7 +6,7 @@ return {
 todoList: [
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-01.jpg', "distance":"0.9 miles, 19 mins", "contact":"415-664-2555", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
 
-{"id":1,"title":"2. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"305 ft, 1 mins", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
+{"id":1,"title":"2. Philosopher's Club","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"305 ft, 1 mins", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
 {"id":2,"title":"3. Mucky Duck","done":false,"location":"1315 9th Ave, San Francisco, CA 94122", "map":'https://goo.gl/maps/Hv4AtRGYnyzQnQEK8', "image":'pub-3.jpg', "distance":"0.2 miles, 3 mins", "contact":"(415) 661-4340", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
 
@@ -20,7 +20,7 @@ todoList: [
 
 {"id":7,"title":"8. Toronado's","done":false,"location":"547 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/dkxLkfCYcL4wEokt6', "image":'pub-8.jpg', "distance":"371 ft, 1 min", "contact":"(415) 863-2276", "quote":"A bottle of beer contains more philosophy than all the books in the world.", "author":"― Louis Pasteur"},
 
-{"id":8,"title":"9. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"348 ft, 1 min", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
+{"id":8,"title":"9. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg',"distance":"348 ft, 1 min", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
 
 {"id":9,"title":"10. Nickies","done":false,"location":"466 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/XXFaToqFJbKEp1me8', "image":'pub-10.jpg', "distance":"2.5 miles, 52 mins (Uber/Lyft)", "contact":"(415) 255-0300", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
 
