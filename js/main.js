@@ -20,7 +20,7 @@ todoList: [
 
 {"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"371 ft, 1 min", "contact":"(415) 386-9292", "quote":"A bottle of beer contains more philosophy than all the books in the world.", "author":"― Louis Pasteur"},
 
-{"id":8,"title":"9. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg',"distance":"348 ft, 1 min", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
+{"id":8,"title":"9. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg',"distance":"Too far, Uber time to Plough & the Stars!", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
 
 {"id":9,"title":"10. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"2.5 miles, 52 mins (Uber/Lyft)", "contact":"(415) 255-0300", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
 
