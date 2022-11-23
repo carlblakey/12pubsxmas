@@ -15,10 +15,10 @@ todoList: [
 
 {"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Alcohol is not the answer, it just makes you forget the question."},
 
-{"id":5,"title":"6. O'Brien's","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.8 miles, 17 mins", "contact":"(415) 386-9292", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
+{"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.8 miles, 17 mins", "contact":"(415) 731-8900", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
 
 
-{"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-05.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"My doctor told me to watch my drinking, so I'm off to find a bar with a mirror."},
+{"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"My doctor told me to watch my drinking, so I'm off to find a bar with a mirror."},
 
 {"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to Kezar!", "contact":"(415) 681-8433", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
 
