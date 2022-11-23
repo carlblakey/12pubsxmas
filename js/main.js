@@ -24,7 +24,7 @@ todoList: [
 
 {"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
 
-{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 386-6173", "quote":"very loaf of bread is a tragic story of a group of grains that could have become beer but didn’t."},
+{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 386-6173", "quote":"Every loaf of bread is a tragic story of a group of grains that could have become beer but didn’t."},
 
 {"id":10,"title":"11. Abbey Tavern","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 661-0060", "quote":"You put the fun in functioning alcoholic."},
 
