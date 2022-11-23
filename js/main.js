@@ -7,9 +7,9 @@ todoList: [
 
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 566-9444", "quote":"Dear Alcohol, we had a deal that you would make me prettier, funnier and a better dancer. I saw the video, we need to talk."},
 
-{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 753-0599", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
+{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 753-0599", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
+{"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, its the only planet with beer."},
 
 {"id":3,"title":"4. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-04.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
 
