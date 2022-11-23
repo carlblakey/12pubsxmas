@@ -9,26 +9,26 @@ todoList: [
 
 {"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 mils, 16 mins", "contact":"(415) 753-0599", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
+{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 mils, 16 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
 
 {"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, it's the only planet with beer."},
 
 {"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Alcohol is not the answer, it just makes you forget the question."},
 
-{"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.8 miles, 17 mins", "contact":"(415) 731-8900", "quote":"Fermentation may have been a better invention than fire.", "author":"― David Rains Wallace"},
+{"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-5.jpg', "distance":"0.8 miles, 17 mins", "contact":"(415) 731-8900", "quote":"You say alcoholism, I say liver crossfit."},
 
 
 {"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"My doctor told me to watch my drinking, so I'm off to find a bar with a mirror."},
 
-{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to Kezar!", "contact":"(415) 681-8433", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
+{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to Kezar!", "contact":"(415) 681-8433", "quote":"They say so many people die because of alcohol. Ironically, they never realized how many of them are born because of it."},
 
-{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"Beer's intellectual. What a shame so many idiots drink it.", "author":"― Ray Bradbury",},
+{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
 
-{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 386-6173", "quote":"There are more old drunks than there are old doctors.", "author":"- Willie Nelson"},
+{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 386-6173", "quote":"very loaf of bread is a tragic story of a group of grains that could have become beer but didn’t."},
 
-{"id":10,"title":"11. Abbey Tavern","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 661-0060", "quote":"A bottle of beer contains more philosophy than all the books in the world.", "author":"― Louis Pasteur"},
+{"id":10,"title":"11. Abbey Tavern","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 661-0060", "quote":"You put the fun in functioning alcoholic."},
 
-{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-12.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"A drunk man’s words are a sober man’s thoughts.", "author":"- Steve Fergosi"},
+{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-12.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"I know I should give up drinking but I am not a quitter."},
 
 ],
 
