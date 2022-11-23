@@ -4,10 +4,10 @@ el: '.app',
 data() {
 return {
 todoList: [
-  
+
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-01.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 566-9444", "quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
 
-{"id":1,"title":"2. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-02.jpg', "distance":"0.7 mils, 16 mins", "contact":"(415) 753-0599", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
+{"id":1,"title":"2. McCarthy's Pub","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-02.jpg', "distance":"0.7 mils, 16 mins", "contact":"(415) 753-0599", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
 {"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
 
