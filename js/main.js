@@ -117,7 +117,6 @@ this.todoList = [];
 },
 });
 
-
 // smooth scroll   
 
 $(document).ready(function(){
