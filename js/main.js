@@ -9,11 +9,11 @@ todoList: [
 
 {"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 753-0599", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth,\n it's the only planet with beer."},
+{"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth,<br> it's the only planet with beer."},
 
 {"id":3,"title":"4. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-04.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Alcohol is not the answer, it just makes you forget the question."},
 
-{"id":4,"title":"5. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-05.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
+{"id":4,"title":"5. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-05.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
 
 {"id":5,"title":"6. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to Kezar!", "contact":"(415) 681-8433", "quote":"I feel sorry for people who don't drink. When they wake up in the morning, That's as good as they're going to feel all day.", "author":"― Frank Sinatra"},
 
