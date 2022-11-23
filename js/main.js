@@ -117,7 +117,7 @@ this.todoList = [];
 },
 });
 
-// smooth scroll   
+// smooth scroll
 
 $(document).ready(function(){
   // Add smooth scrolling to all links
