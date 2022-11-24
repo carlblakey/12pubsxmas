@@ -7,9 +7,9 @@ todoList: [
 
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 566-9444", "quote":"Dear Alcohol, we had a deal that you would make me prettier, funnier and a better dancer. I saw the video, we need to talk."},
 
-{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
+{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"394 ft, 2 mins", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 mils, 16 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
+{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 miles, 4 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
 
 {"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, it's the only planet with beer."},
 
