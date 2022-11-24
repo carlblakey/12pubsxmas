@@ -13,7 +13,7 @@ todoList: [
 
 {"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, it's the only planet with beer."},
 
-{"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"Alcohol is not the answer, it just makes you forget the question."},
+{"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.6 miles, 10 mins", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
 
 {"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-006.jpg', "distance":"0.8 miles, 17 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
