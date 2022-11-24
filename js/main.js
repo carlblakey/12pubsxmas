@@ -15,7 +15,7 @@ todoList: [
 
 {"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
 
-{"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-006.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
+{"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
 {"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, your drunk."},
 
@@ -23,7 +23,7 @@ todoList: [
 
 {"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
 
-{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 386-6173", "quote":"Alcohol does not make you fat, it makes you lean: against tables, chairs, walls, floors and ugly people."},
+{"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.1 miles, 1 mins", "contact":"(415) 386-6173", "quote":"Alcohol does not make you fat, it makes you lean: against tables, chairs, walls, floors and ugly people."},
 
 {"id":10,"title":"11. Abbey Tavern","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-0011.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 661-0060", "quote":"My boss didn’t know I drank, till one day I came to work sober."},
 
