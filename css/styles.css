@@ -12687,7 +12687,7 @@ ul.navbar-items img {
 .card__details ul li {
   text-align: center;
   font-size: 1.35rem;
-  padding: 1.5em 1.75em;
+  padding: 1em 1.75em;
 }
 
 .card__details ul li:not(:last-child) {
