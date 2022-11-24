@@ -17,7 +17,6 @@ todoList: [
 
 {"id":5,"title":"6. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-006.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
-
 {"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, your drunk."},
 
 {"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"I said no to alcohol, but it just doesn’t listen."},
