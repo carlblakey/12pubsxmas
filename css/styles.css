@@ -12502,7 +12502,8 @@ li label {
 
 .todo-checkbox:checked~.todo-text {
   color: #FFF;
-  text-decoration: line-through
+  text-decoration: line-through;
+  font-weight: bolder;
 }
 
 .status.free {
