@@ -11,7 +11,7 @@ todoList: [
 
 {"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
 
-{"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, it's the only planet with beer."},
+{"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Will cocktails be served at your daughter's princess party or shall I tailgate in your driveway?"},
 
 {"id":4,"title":"5. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
 
@@ -19,9 +19,9 @@ todoList: [
 
 {"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, your drunk."},
 
-{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/b1n5Zqt3GSrPDtvq7', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"I said no to alcohol, but it just doesn’t listen."},
+{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/b1n5Zqt3GSrPDtvq7', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"If at first you don't succeed, try drinking a beer while you do it. You'll be amazed at how much less you care."},
 
-{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
+{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 751-1122", "quote":"Spilling a beer is the adult equivalent to losing a balloon.",},
 
 {"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/QRR8Mt2f5f5giFNg6', "image":'pub-011.jpg', "distance":"0.1 miles, 1 mins", "contact":"(415) 386-6173", "quote":"Alcohol does not make you fat, it makes you lean: against tables, chairs, walls, floors and ugly people."},
 
