@@ -12834,11 +12834,13 @@ li.quote-bg {
 }
 
 .is-red {
-  color: #d71921
+  color: #d71921;
+  font-weight: bolder;
 }
 
 .is-green {
-  color: #22d659;
+  color: #198625;
+  font-weight: bolder;
 }
 
 #done_and_dusted {
