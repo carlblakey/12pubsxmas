@@ -12863,6 +12863,9 @@ li.quote-bg {
   -webkit-animation: slide 20s linear infinite;
 }
 
+.congrats-message {
+  display: flex;
+}
 
 @-webkit-keyframes slide {
   from {
