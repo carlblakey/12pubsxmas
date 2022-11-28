@@ -3268,25 +3268,23 @@ fieldset[disabled] .button {
 }
 
 .buttons {
-  align-items: center;
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   justify-content: space-evenly;
-  border-radius: 100px;
-  width: 5rem;
-  height: 3rem;
-  padding: .15rem;
-  text-align: center;
+  border-radius: 500px;
+  width: 6.5em;
+  height: 3.5em;
+  /* padding: 0.15rem; */
+  /* text-align: center; */
+  align-content: center;
 }
 
 .btn-red {
   background-color: #d71921;
-  border: 1px solid rgba(255, 255, 255, .25);
 }
 
 .btn-green {
   background-color: #198625;
-  border: 1px solid rgba(255, 255, 255, .25);
 }
 
 .buttons .button {
