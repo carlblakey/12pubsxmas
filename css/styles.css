@@ -12079,8 +12079,9 @@ print {
 }
 
 .footer {
-  background-color: #fafafa;
+  background-color: #efefef;
   padding: 1.35rem 1.5rem .25rem;
+  font-size: 1.2em;
 }
 
 /*# sourceMappingURL=bulma.css.map */
