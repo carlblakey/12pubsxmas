@@ -12837,6 +12837,10 @@ li.quote-bg {
   color: #d71921
 }
 
+.is-green {
+  color: #22d659;
+}
+
 #done_and_dusted {
   margin-top: 40px;
 }
