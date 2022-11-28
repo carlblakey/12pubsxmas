@@ -12781,7 +12781,7 @@ ul.navbar-items img {
 .card__img {
   background-size: cover;
   position: absolute;
-  top: 0;
+  top: -20px;
   left: 0
 }
 
