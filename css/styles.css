@@ -12810,15 +12810,16 @@ li.quote-bg {
 }
 
 .navbar-center {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-content: center;
-  width: 100vw;
-  position: relative;
-  height: 8em;
-  box-shadow: 0 1px 4px #000;
-  border-bottom: 1px white solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    width: 100vw;
+    position: relative;
+    height: 8em;
+    box-shadow: 0 1px 4px #000;
+    border-bottom: 1px white solid;
+
 }
 
 .navbar-item {
@@ -12828,6 +12829,7 @@ li.quote-bg {
   flex-direction: column;
   justify-content: center;
   color: #fff;
+  padding: 0 1.2em;
 }
 
 .is-red {
