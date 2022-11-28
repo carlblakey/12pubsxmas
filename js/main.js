@@ -9,7 +9,7 @@ todoList: [
 
 {"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"394 ft, 2 mins", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 miles, 4 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
+{"id":2,"title":"3. Philosopher's Club","done":false,"location":"824 Ulloa St, San Francisco, CA 94127", "map":'https://goo.gl/maps/6M5TxqoxR59gvFMu5', "image":'pub-003.jpg', "distance":"0.7 miles, 16 mins", "contact":"(415) 753-0599", "quote":"My doctor told me to watch my drinking, so I’m off to find a bar with a mirror."},
 
 {"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-004.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"Save the earth, it's the only planet with beer."},
 
@@ -21,7 +21,7 @@ todoList: [
 
 {"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://g.page/michaelcollinshaight?share', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"I said no to alcohol, but it just doesn’t listen."},
 
-{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
+{"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 751-1122", "quote":"A party without alcohol is just a meeting.",},
 
 {"id":9,"title":"10. Ireland's 32","done":false,"location":"3920 Geary Blvd, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-011.jpg', "distance":"0.1 miles, 1 mins", "contact":"(415) 386-6173", "quote":"Alcohol does not make you fat, it makes you lean: against tables, chairs, walls, floors and ugly people."},
 
