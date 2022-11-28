@@ -3277,6 +3277,7 @@ fieldset[disabled] .button {
   /* padding: 0.15rem; */
   /* text-align: center; */
   align-content: center;
+  font-weight: bolder;
 }
 
 .btn-red {
