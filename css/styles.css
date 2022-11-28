@@ -12291,7 +12291,7 @@ li label::before {
   max-width: 400px;
   min-width: 320px;
   border-radius: 3px;
-  padding: 30px 0px 20px 0px;
+  padding: 50px 0px 20px 0px;
 }
 
 .todo-title {
@@ -12669,6 +12669,8 @@ ul.navbar-items img {
 .card__heading-span--2 {
   background: #d71921;
   box-shadow: 0 0.2rem 0.2rem rgba(0, 0, 0, 0.5);
+  font-weight: 700;
+    letter-spacing: 1px;
 }
 
 
@@ -12815,7 +12817,7 @@ li.quote-bg {
   align-content: center;
   width: 100vw;
   position: relative;
-  height: 6rem;
+  height: 8em;
   box-shadow: 0 1px 4px #000;
   border-bottom: 1px white solid;
 }
