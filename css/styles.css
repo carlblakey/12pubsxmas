@@ -12686,7 +12686,8 @@ ul.navbar-items img {
 
 .card__details ul li {
   text-align: center;
-  font-size: 1.35rem;
+  font-size: 1em;
+  font-weight: 500;
   padding: 1em 1.75em;
 }
 
