@@ -12829,8 +12829,6 @@ li.quote-bg {
 
 .navbar-item {
   display: flex;
-  /* flex-grow: 0; */
-  /* flex-shrink: 0; */
   flex-direction: column;
   justify-content: center;
   color: #fff;
@@ -12852,7 +12850,6 @@ li.quote-bg {
 }
 
 /* animated snow bg */
-
 
 .hero-bkg-animated {
   background: #000 url(../img/white-snow.png) repeat 0 0;
@@ -13158,7 +13155,6 @@ li.quote-bg {
     transform: translateY(600px);
   }
 }
-
 
 #back2Top {
   width: 50px;
