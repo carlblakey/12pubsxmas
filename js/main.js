@@ -28,7 +28,6 @@ todoList: [
 {"id":10,"title":"11. The Abbey Tavern","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/ZhwPzx3p6rk1Y2GRA', "image":'pub-0011.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 661-0060", "quote":"My boss didn’t know I drank, till one day I came to work sober."},
 
 {"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"I know I should give up drinking but I am not a quitter."},
-
 ],
 
 new_todo: '',
