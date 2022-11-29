@@ -19,7 +19,7 @@ todoList: [
 
 {"id":6,"title":"7. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, your drunk."},
 
-{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/b1n5Zqt3GSrPDtvq7', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"If at first you don't succeed, try drinking a beer while you do it. You'll be amazed at how much less you care."},
+{"id":7,"title":"8. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"If at first you don't succeed, try drinking a beer while you do it. You'll be amazed at how much less you care."},
 
 {"id":8,"title":"9. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 751-1122", "quote":"Spilling a beer is the adult equivalent to losing a balloon.",},
 
