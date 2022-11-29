@@ -12865,6 +12865,9 @@ li.quote-bg {
 
 .congrats-message {
   display: flex;
+  align-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
 
 @-webkit-keyframes slide {
