@@ -12287,6 +12287,7 @@ li label::before {
 
 .nav-container {
   display: flex;
+  justify-content: space-around;
 }
 
 /* New Vue ToDo list with Message */
